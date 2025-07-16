@@ -1,4 +1,4 @@
-<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/8ad399cc-0035-40e0-88bb-4d6287a32c96" />
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/8ad399cc-0035-40e0-88bb-4d6287a32c96" />
 
 # 🩺 SmartWatch Health Monitor with Conversational LLM
 
@@ -31,7 +31,7 @@ A real-time health monitoring system that integrates smartwatch sensor data with
 ## 🛠️ Tech Stack (Example)
 
 - Smartwatch SDK 
-- Python backend / Node.js for data handling
+- Python backend 
 - Large Language Model (Gemini)
 
 
